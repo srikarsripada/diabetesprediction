@@ -1,0 +1,12 @@
+It has been noticed that the number of diabetic patients is increasing day by day from
+young to old people. According to WHO (World health organization), the number of people with 
+diabetes has increased over the years. Diabetes can cause many problems to the body if it 
+remains unidentified and untreated. Therefore, it is very important to have an accurate system, 
+through which diabetes doesn’t go undetected and it accurately classifies patients with diabetes 
+or no diabetes. The objective of this project is to train various classification models on patients'
+data and compare the performance of these models to see which classification technique 
+performs better and predicts accurately, that is, classifying patients with diabetes and patients 
+with no diabetes, with maximum accuracy. To do this we will use different classification 
+methods, such as Naïve Bise, Decision tree, Logistic Regression, Linear Discriminant Analysis, 
+and Quadratic Discriminant Analysis. And, then we will evaluate the performance of these 
+models using various evaluation metrics.
